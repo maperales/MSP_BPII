@@ -1,0 +1,2 @@
+En este 'repositorio' podréis encontrar los ficheros para realizar la placa de conexión, si alguno quiere hacerla de manera autónoma.
+La única precaución que hay que tener al montar la placa, una vez fabricada, es que los conectores hembra hacia el launchpad deben insertarse por abajo y soldarse por arriba, mientras que los conectores macho hacia el boosterpack, así como los jumpers, deben montarse por arriba y soldarse por abajo.
